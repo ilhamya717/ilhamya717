@@ -3,5 +3,5 @@
 </h1>
 
 <p align="center">
-Cybersecurity • Fullstack • Red Team
+Cybersecurity • Red Team
 </p>
